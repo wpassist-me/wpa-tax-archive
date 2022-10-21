@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WPA Tax Archives
- * Plugin URI: https://wpassist.me/plugins/wpa-tax-archive/
+ * Plugin URI: https://wpassist.me/plugins/wpa-tax-archives/
  * Description: Create taxonomy archives easily using [taxarchive] shortcode.
  * Author: Metin Saylan
  * Author URI: https://wpassist.me
